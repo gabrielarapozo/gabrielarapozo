@@ -3,7 +3,7 @@
 <div>
 🧪 Biomedical scientist 
 <div>
-👩🏻‍💻 Bioinformatics 
+👩🏻‍💻 Improvement bioinformatics student 
 <div>
 🔬 scRNA-seq 
 <div>
