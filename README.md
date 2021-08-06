@@ -26,7 +26,7 @@ she/her
  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="R" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
  <img align="center" alt="Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"> 
- <img align="right"  height="100" width="100" alt="gif" src="https://im4.ezgif.com/tmp/ezgif-4-d55532c4beb7.gif">
+ <img align="right"  height="100" width="100" alt="gif" src="https://user-images.githubusercontent.com/70384671/128537200-1b43aafe-cfbc-493d-9be4-da713479de66.gif">
 
 </div>
   
